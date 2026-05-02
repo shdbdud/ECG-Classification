@@ -1,0 +1,12 @@
+Model: Original_DSR
+Source: post_mi_history_ecg_images/PMI(45).jpg
+True label: Abnormal
+Predicted label: Abnormal
+Probability of Abnormal: 0.377035
+Decision Threshold: 0.3000
+Retrieved abnormal-case ratio: 0.00%
+Retrieved support ratio for predicted label: 0.00%
+Retrieved support ratio for true label: 0.00%
+The prediction is correct.
+The decision confidence is moderate.
+The retrieved evidence is mixed and does not strongly support the predicted label.

@@ -1,0 +1,12 @@
+Model: Original_DSR
+Source: normal_ecg_images/Normal(272).jpg
+True label: Normal
+Predicted label: Normal
+Probability of Abnormal: 0.028343
+Decision Threshold: 0.3000
+Retrieved abnormal-case ratio: 0.00%
+Retrieved support ratio for predicted label: 100.00%
+Retrieved support ratio for true label: 100.00%
+The prediction is correct.
+The probability is far from the threshold, so the decision confidence is relatively strong.
+Most retrieved reference cases are consistent with the predicted label.

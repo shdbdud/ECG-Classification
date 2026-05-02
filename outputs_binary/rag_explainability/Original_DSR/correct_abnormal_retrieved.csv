@@ -1,0 +1,6 @@
+﻿rank,case_id,split,source_path,true_label,true_label_name,pred_label,pred_label_name,prob_abnormal,decision_threshold,similarity
+1,train_000184,train,abnormal_heartbeat_ecg_images/HB(86).jpg,1,Abnormal,1,Abnormal,0.9969512224197388,0.3,0.9999562501907349
+2,train_000625,train,abnormal_heartbeat_ecg_images/HB(208).jpg,1,Abnormal,1,Abnormal,0.996842622756958,0.3,0.9998775720596313
+3,train_000697,train,abnormal_heartbeat_ecg_images/HB(83).jpg,1,Abnormal,1,Abnormal,0.9970399737358093,0.3,0.9998680353164673
+4,train_000719,train,abnormal_heartbeat_ecg_images/HB(173).jpg,1,Abnormal,1,Abnormal,0.9968369007110596,0.3,0.9998378157615662
+5,train_000520,train,abnormal_heartbeat_ecg_images/HB(11).jpg,1,Abnormal,1,Abnormal,0.996821403503418,0.3,0.9998236298561096

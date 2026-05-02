@@ -1,0 +1,6 @@
+﻿rank,case_id,split,source_path,true_label,true_label_name,pred_label,pred_label_name,prob_abnormal,decision_threshold,similarity
+1,train_000519,train,normal_ecg_images/Normal(125).jpg,0,Normal,1,Abnormal,0.3050631880760193,0.3,0.9691183567047119
+2,train_000579,train,normal_ecg_images/Normal(208).jpg,0,Normal,0,Normal,0.2965887784957886,0.3,0.9655047655105591
+3,train_000209,train,normal_ecg_images/Normal(56).jpg,0,Normal,0,Normal,0.2848588526248932,0.3,0.9554464817047119
+4,train_000472,train,normal_ecg_images/Normal(86).jpg,0,Normal,0,Normal,0.23614667356014252,0.3,0.9074526429176331
+5,train_000515,train,normal_ecg_images/Normal(277).jpg,0,Normal,0,Normal,0.21706746518611908,0.3,0.8873904943466187

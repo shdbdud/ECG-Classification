@@ -1,0 +1,18 @@
+{
+  "model_name": "Original_DSR_Attn_Proto",
+  "checkpoint_path": "C:\\Users\\LYG Y9000x\\OneDrive\\Desktop\\proj\\weights_from_images_binary\\Original_DSR_Attn_Proto_best.pth",
+  "data_root": "C:\\Users\\LYG Y9000x\\OneDrive\\Desktop\\proj\\ecg_dataset\\development",
+  "rag_dir": "C:\\Users\\LYG Y9000x\\OneDrive\\Desktop\\proj\\outputs_binary\\rag_explainability\\Original_DSR_Attn_Proto",
+  "num_cases": 918,
+  "embedding_shape": [
+    918,
+    256
+  ],
+  "index_type": "faiss",
+  "index_path": "C:\\Users\\LYG Y9000x\\OneDrive\\Desktop\\proj\\outputs_binary\\rag_explainability\\Original_DSR_Attn_Proto\\rag_index.faiss",
+  "meta_path": "C:\\Users\\LYG Y9000x\\OneDrive\\Desktop\\proj\\outputs_binary\\rag_explainability\\Original_DSR_Attn_Proto\\rag_meta.csv",
+  "embedding_path": "C:\\Users\\LYG Y9000x\\OneDrive\\Desktop\\proj\\outputs_binary\\rag_explainability\\Original_DSR_Attn_Proto\\rag_embeddings.npy",
+  "threshold": 0.05,
+  "use_attn": true,
+  "use_internal_proto": true
+}

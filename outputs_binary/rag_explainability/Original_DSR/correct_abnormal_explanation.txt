@@ -1,0 +1,12 @@
+Model: Original_DSR
+Source: abnormal_heartbeat_ecg_images/HB(128).jpg
+True label: Abnormal
+Predicted label: Abnormal
+Probability of Abnormal: 0.996939
+Decision Threshold: 0.3000
+Retrieved abnormal-case ratio: 100.00%
+Retrieved support ratio for predicted label: 100.00%
+Retrieved support ratio for true label: 100.00%
+The prediction is correct.
+The probability is far from the threshold, so the decision confidence is relatively strong.
+Most retrieved reference cases are consistent with the predicted label.
