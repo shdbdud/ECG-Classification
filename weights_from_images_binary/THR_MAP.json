@@ -1,0 +1,8 @@
+{
+  "Original_DSR": 0.3,
+  "Enhanced_DSR_SE": 0.15499999999999997,
+  "Pure_CNN": 0.285,
+  "CNN_LSTM": 0.15499999999999997,
+  "Pure_LSTM": 0.43999999999999995,
+  "Original_DSR_Attn_Proto": 0.05
+}
