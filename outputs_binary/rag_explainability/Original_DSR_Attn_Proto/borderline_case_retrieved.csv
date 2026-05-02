@@ -1,0 +1,6 @@
+﻿rank,source_path,folder_name,true_label,true_label_name,pred_label,pred_label_name,pred_argmax,pred_thr,prob_normal,prob_abnormal,logit_normal,logit_abnormal,threshold,margin_to_thr,model_name,similarity
+1,normal_ecg_images\Normal(261).jpg,normal_ecg_images,0,Normal,0,Normal,0,1,0.9499655365943908,0.050034437328577,1.681120991706848,-1.2625932693481443,0.05,3.443732857703885e-05,Original_DSR_Attn_Proto,1.000000238418579
+2,normal_ecg_images\Normal(119).jpg,normal_ecg_images,0,Normal,0,Normal,0,1,0.9499655365943908,0.050034437328577,1.681120991706848,-1.2625932693481443,0.05,3.443732857703885e-05,Original_DSR_Attn_Proto,1.000000238418579
+3,normal_ecg_images\Normal(83).jpg,normal_ecg_images,0,Normal,0,Normal,0,1,0.9495434761047364,0.0504565313458442,1.6736189126968384,-1.261250138282776,0.05,0.0004565313458442,Original_DSR_Attn_Proto,0.9999369978904724
+4,normal_ecg_images\Normal(225).jpg,normal_ecg_images,0,Normal,0,Normal,0,1,0.9495434761047364,0.0504565313458442,1.6736189126968384,-1.261250138282776,0.05,0.0004565313458442,Original_DSR_Attn_Proto,0.9999369978904724
+5,normal_ecg_images\Normal(251).jpg,normal_ecg_images,0,Normal,0,Normal,0,0,0.9508479833602904,0.0491520464420318,1.6884055137634275,-1.274030327796936,0.05,0.0008479535579681,Original_DSR_Attn_Proto,0.9999352693557739

@@ -1,0 +1,13 @@
+Borderline Case
+Model: Original_DSR_Attn_Proto
+Source: normal_ecg_images\Normal(119).jpg
+True label: Normal
+Predicted label: Normal
+Probability of Abnormal: 0.050034
+Decision Threshold: 0.0500
+Retrieved abnormal-case ratio: 0.00%
+Retrieved support ratio for predicted label: 100.00%
+Retrieved support ratio for true label: 100.00%
+The prediction is correct.
+This sample is close to the operating threshold, so the decision is borderline.
+Most retrieved reference cases are consistent with the predicted label.
